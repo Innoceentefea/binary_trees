@@ -2,10 +2,9 @@
 
 /**
  * binary_tree_delete - function to delete
- * @parent: the parent node
- * @value: the number of the new node
+ * @tree: the parent node
  *
- * Return: A pointer to the delete node
+ * Return: void
  */
 
 void binary_tree_delete(binary_tree_t *tree)
