@@ -3,7 +3,7 @@
 /**
  * binary_tree_node - creat node
  * @parent: Pointer to the parent
- * @n: the value of node
+ * @value: the value of node
  *
  * Return: binary tree pointer
  */
